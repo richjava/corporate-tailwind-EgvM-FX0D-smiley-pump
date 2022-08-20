@@ -1,5 +1,3 @@
-# corporate-tailwind-EgvM-FX0D
-
 This site was built from the [Corporate Tailwind](https://github.com/builtjs/builtjs-theme-corporate-tailwind) Built.JS theme.
 
 ## Installation and running the site locally
